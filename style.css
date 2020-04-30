@@ -1,0 +1,117 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family: 'Roboto', sans-serif;
+}
+.name
+{
+color: fuchsia;
+}
+p
+{
+    color: dimgray;
+}
+a
+{
+text-decoration: none;
+background-color: fuchsia;
+padding: 10px 38px 10px 38px;
+border-radius: 7px;
+color: white;
+font-weight: 700;
+}
+.half-width img
+{
+width: 100%;
+}
+.half-width
+{
+width: 50%;
+float: left;
+}
+#top
+{
+    padding-top: 50px;
+}
+.header
+{
+background-image: url("header-bg.png");
+background-repeat: no-repeat;
+padding: 10%;
+}
+section
+{
+height: 500px;
+}
+.biography
+{
+height: 600px;
+padding: 80px;
+}
+#down
+{
+    padding-top: 200px;
+}
+.biography
+{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work img
+{
+    width: 100%;
+}
+.work
+{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 12px;
+}
+.latest-work
+{
+    height: 400px;
+    padding-left: 140px;
+    padding-bottom: 140px;
+    padding-right: 140px;
+}
+.my
+{
+    text-align: center;
+    padding: 50px;
+}
+.latest-work
+{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.footer
+{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.client
+{
+    text-align: center;
+}
+.pro
+{
+    background-color: fuchsia;
+    text-align: center;
+    margin-top: 70px;
+    padding: 20px;
+    border-radius: 7px;
+    margin-left: 27%;
+    margin-right: 27%;
+    color: white;
+}
+#c
+{
+    color: white;
+}
+footer
+{
+    text-align: center;
+}
